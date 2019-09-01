@@ -18,6 +18,10 @@
 - [Learn JavaScript](https://jgthms.com/javascript-in-14-minutes/)
 - [Learn the basics of Web Design](https://jgthms.com/web-design-in-4-minutes/)
 
+> Important Resource
+
+- [freeCodeCamp - Web Design Curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+
 ### References
 
 - [HTML Reference](https://htmlreference.io)
