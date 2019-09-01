@@ -15,8 +15,8 @@
 ### Tutorials
 
 - [Learn HTML & CSS](https://marksheet.io/)
-- [Learn JavaScript](https://jgthms.com/javascript-in-14-minutes/)
 - [Learn the basics of Web Design](https://jgthms.com/web-design-in-4-minutes/)
+- [Learn JavaScript](https://jgthms.com/javascript-in-14-minutes/)
 
 > Important Resource
 
