@@ -2,7 +2,7 @@
 
 ---
 
-\>\> [Homepage](./index.md) | \>\> [Web 101](./web101/)
+\>\> [Homepage](./index.md) |
 
 ## Basics of Web Development
 
