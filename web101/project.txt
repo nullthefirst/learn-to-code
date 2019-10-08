@@ -1,4 +1,0 @@
-1. Add more styling with CSS to the web101
-2. Add HTML link tags
-3. Add a second image that is web based
-4. Put the Styling from the head tag, in a css file, and link it to the HTML
