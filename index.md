@@ -20,12 +20,13 @@
 
 > Important Resources
 
-- [Internetingishard.com | 
-A friendly web development tutorial for complete beginners](https://internetingishard.com/)   
+<!-- - [Internetingishard.com |
+A friendly web development tutorial for complete beginners](https://internetingishard.com/)    -->
+
 - [freeCodeCamp - Web Design Curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 
 ### References
 
 - [HTML Reference](https://htmlreference.io)
-- [CSS Reference](https://cssreference.io/)  
+- [CSS Reference](https://cssreference.io/)
 - [The Modern JavaScript Tutorial](http://javascript.info/)
